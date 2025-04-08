@@ -1,0 +1,40 @@
+{
+  "spacing": {
+    "lg": {
+      "$type": "number",
+      "$value": "{dimension.core.150}"
+    },
+    "md": {
+      "$type": "number",
+      "$value": "{dimension.core.100}"
+    },
+    "md-compact": {
+      "$type": "number",
+      "$value": "{dimension.core.075}"
+    },
+    "none": {
+      "$type": "number",
+      "$value": "{dimension.core.0}"
+    },
+    "sm": {
+      "$type": "number",
+      "$value": "{dimension.core.050}"
+    },
+    "xl": {
+      "$type": "number",
+      "$value": "{dimension.core.200}"
+    },
+    "xs": {
+      "$type": "number",
+      "$value": "{dimension.core.025}"
+    },
+    "xxl": {
+      "$type": "number",
+      "$value": "{dimension.core.250}"
+    },
+    "xxs": {
+      "$type": "number",
+      "$value": "{dimension.core.0125}"
+    }
+  }
+}
