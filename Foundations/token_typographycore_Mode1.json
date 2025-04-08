@@ -1,0 +1,22 @@
+{
+  "typography": {
+    "core": {
+      "font-family": {
+        "brand": {
+          "$type": "string",
+          "$value": "Graphik TH"
+        }
+      },
+      "font-weight": {
+        "medium": {
+          "$type": "string",
+          "$value": "Medium"
+        },
+        "regular": {
+          "$type": "string",
+          "$value": "Regular"
+        }
+      }
+    }
+  }
+}
