@@ -1,0 +1,36 @@
+{
+  "radius": {
+    "full": {
+      "$type": "number",
+      "$value": 999
+    },
+    "lg": {
+      "$type": "number",
+      "$value": "{dimension.core.075}"
+    },
+    "md": {
+      "$type": "number",
+      "$value": "{dimension.core.050}"
+    },
+    "none": {
+      "$type": "number",
+      "$value": "{dimension.core.0}"
+    },
+    "sm": {
+      "$type": "number",
+      "$value": "{dimension.core.025}"
+    },
+    "xl": {
+      "$type": "number",
+      "$value": "{dimension.core.100}"
+    },
+    "xs": {
+      "$type": "number",
+      "$value": "{dimension.core.0125}"
+    },
+    "xxl": {
+      "$type": "number",
+      "$value": "{dimension.core.150}"
+    }
+  }
+}
