@@ -254,30 +254,30 @@
       "brand": {
         "default": {
           "$type": "color",
-          "$value": "{color.core.red.900}"
+          "$value": "{color.core.teal.900}"
         },
         "pressed": {
           "$type": "color",
-          "$value": "{color.core.red.1000}"
+          "$value": "{color.core.teal.1000}"
         },
         "subtle": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.red.500}"
+            "$value": "{color.core.teal.500}"
           },
           "pressed": {
             "$type": "color",
-            "$value": "{color.core.red.600}"
+            "$value": "{color.core.teal.600}"
           }
         },
         "subtlest": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.red.300}"
+            "$value": "{color.core.teal.300}"
           },
           "pressed": {
             "$type": "color",
-            "$value": "{color.core.red.400}"
+            "$value": "{color.core.teal.400}"
           }
         }
       },
@@ -710,30 +710,30 @@
       "brand": {
         "default": {
           "$type": "color",
-          "$value": "{color.core.red.900}"
+          "$value": "{color.core.teal.900}"
         },
         "pressed": {
           "$type": "color",
-          "$value": "{color.core.red.1000}"
+          "$value": "{color.core.teal.1000}"
         },
         "subtle": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.red.500}"
+            "$value": "{color.core.teal.500}"
           },
           "pressed": {
             "$type": "color",
-            "$value": "{color.core.red.600}"
+            "$value": "{color.core.teal.600}"
           }
         },
         "subtlest": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.red.300}"
+            "$value": "{color.core.teal.300}"
           },
           "pressed": {
             "$type": "color",
-            "$value": "{color.core.red.400}"
+            "$value": "{color.core.teal.400}"
           }
         }
       },
@@ -1654,11 +1654,11 @@
       "brand": {
         "default": {
           "$type": "color",
-          "$value": "{color.core.red.900}"
+          "$value": "{color.core.teal.900}"
         },
         "pressed": {
           "$type": "color",
-          "$value": "{color.core.red.1000}"
+          "$value": "{color.core.teal.1000}"
         }
       },
       "default": {
@@ -1699,43 +1699,33 @@
           "$value": "{color.core.neutral.200}"
         }
       },
-      "link": {
-        "default": {
-          "$type": "color",
-          "$value": "{color.core.blue.900}"
-        },
-        "pressed": {
-          "$type": "color",
-          "$value": "{color.core.blue.1000}"
-        }
-      },
       "on-brand": {
         "default": {
           "$type": "color",
-          "$value": "{color.core.red.100}"
+          "$value": "{color.core.teal.100}"
         },
         "pressed": {
           "$type": "color",
-          "$value": "{color.core.red.200}"
+          "$value": "{color.core.teal.200}"
         },
         "subtle": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.red.1100}"
+            "$value": "{color.core.teal.1100}"
           },
           "pressed": {
             "$type": "color",
-            "$value": "{color.core.red.1200}"
+            "$value": "{color.core.teal.1200}"
           }
         },
         "subtlest": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.red.900}"
+            "$value": "{color.core.teal.900}"
           },
           "pressed": {
             "$type": "color",
-            "$value": "{color.core.red.1000}"
+            "$value": "{color.core.teal.1000}"
           }
         }
       },
@@ -2198,11 +2188,11 @@
       "brand": {
         "default": {
           "$type": "color",
-          "$value": "{color.core.red.900}"
+          "$value": "{color.core.teal.900}"
         },
         "pressed": {
           "$type": "color",
-          "$value": "{color.core.red.1000}"
+          "$value": "{color.core.teal.1000}"
         }
       },
       "default": {
@@ -2243,43 +2233,33 @@
           "$value": "{color.core.neutral.200}"
         }
       },
-      "link": {
-        "default": {
-          "$type": "color",
-          "$value": "{color.core.blue.900}"
-        },
-        "pressed": {
-          "$type": "color",
-          "$value": "{color.core.blue.1000}"
-        }
-      },
       "on-brand": {
         "default": {
           "$type": "color",
-          "$value": "{color.core.red.100}"
+          "$value": "{color.core.teal.100}"
         },
         "pressed": {
           "$type": "color",
-          "$value": "{color.core.red.200}"
+          "$value": "{color.core.teal.200}"
         },
         "subtle": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.red.1100}"
+            "$value": "{color.core.teal.1100}"
           },
           "pressed": {
             "$type": "color",
-            "$value": "{color.core.red.1200}"
+            "$value": "{color.core.teal.1200}"
           }
         },
         "subtlest": {
           "default": {
             "$type": "color",
-            "$value": "{color.core.red.900}"
+            "$value": "{color.core.teal.900}"
           },
           "pressed": {
             "$type": "color",
-            "$value": "{color.core.red.1000}"
+            "$value": "{color.core.teal.1000}"
           }
         }
       },
